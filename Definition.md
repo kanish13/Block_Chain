@@ -32,3 +32,5 @@ NFT = non-fungible tokens
 
 A non-fungible token (NFT) is a unique digital identifier that is recorded on a blockchain, and is used to certify ownership and authenticity.
 
+Gas is the fee required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform
+
