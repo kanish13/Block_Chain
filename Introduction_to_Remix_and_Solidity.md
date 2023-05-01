@@ -83,6 +83,14 @@ Example:
 
     }
 
-     
+Default value of solidity is zero
+
+Comments:
+
+Any text between a // and the end of a line is treated as a comment and is ignored by Solidity Compiler.
+
+Any text between the characters /* and */ is treated as a comment. This may span multiple lines.
+
+
     
 
