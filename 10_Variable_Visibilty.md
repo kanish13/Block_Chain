@@ -1,4 +1,4 @@
-Scope of local variables is limited to function in which they are defined but State variables can have three types of scopes.
+
 
 Public − Public state variables can be accessed internally as well as via messages. For a public state variable, an automatic getter function is generated.
 
@@ -16,7 +16,7 @@ Ex:
         int internal y=20;
         function store() public pure returns(int)
         {
-            int b=5; //Local 
+            int b=5; //Private
             return b;
         }
          function func() public view returns(int){
