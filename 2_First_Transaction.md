@@ -30,4 +30,4 @@ FOR THE FIRST TRANSACTION , WE ARE GOING TO USE Sepolia TESTNETWORK [ THIS COULD
               * Wait for sometime to process
               * Now you can see the ETH has transfered from one account to another 
               
-To see transaction details , Go to https://sepolia.etherscan.io/ and enter the hashcode of your account
+To see transaction details , Go to https://sepolia.etherscan.io/ and enter the address of your account
