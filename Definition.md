@@ -34,3 +34,7 @@ A non-fungible token (NFT) is a unique digital identifier that is recorded on a 
 
 Gas is the fee required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform
 
+Consensus is the mechanism used to agree on the state of a blockchain
+
+Each block node contains all the transaction details
+
